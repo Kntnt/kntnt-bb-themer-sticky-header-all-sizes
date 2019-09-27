@@ -7,6 +7,7 @@
  * Version:           1.0.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
+ * GitHub Plugin URI: https://github.com/Kntnt/kntnt-bb-themer-sticky-header-all-sizes
  * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  */
